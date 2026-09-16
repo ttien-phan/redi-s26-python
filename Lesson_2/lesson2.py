@@ -9,7 +9,7 @@ if discount == "yes":
 else:
     print(totalPrice)
 
-"""
+
 quantity = int(input("How many tickets? "))
 status = input("Your membership status? ")
 totalPrice = quantity * 10
@@ -20,4 +20,3 @@ elif status == "Silver":
     print(totalPrice)
 
 print(totalPrice)
-"""
